@@ -308,6 +308,10 @@ an inbound trigger creates tasks, a feed connection shows issues to read without
 connection leaves issues off. PRs default off. An explicit repository picker overrides
 that connection's role without enabling other repositories or connections.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Taskuary/)
+
 ## Try it without installing anything
 
 ```bash
